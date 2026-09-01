@@ -1,0 +1,7 @@
+{
+  "name": "Piggy Road",
+  "description": "An endless road-crossing arcade game featuring a cute pig, moving cars, collectible coins, character skins, and an exciting wolf chase idle mechanic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
